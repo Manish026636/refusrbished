@@ -1,0 +1,36 @@
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+  .font-custom {
+    font-family: 'Archivo Black', sans-serif;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&family=Ramabhadra&display=swap');
+    .comitName {
+      font-family: 'Ramabhadra', sans-serif;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap');
+  .gslsetting {
+    font-family: 'Mukta', sans-serif;    
+}
+  @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@600&display=swap');
+  .SpeakerNameDI {
+    font-family: 'Lexend', sans-serif;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');  
+  .GSLDCN{
+    font-family: 'Archivo Black', sans-serif;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&display=swap');
+  .GSLDCM{
+    font-family: 'Hind Siliguri', sans-serif;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&display=swap');
+  .FeedbackHead{
+    font-family: 'Cabin', sans-serif;
+  }
